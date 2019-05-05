@@ -1,0 +1,1 @@
+This is a financial bot for analysing stocks.
